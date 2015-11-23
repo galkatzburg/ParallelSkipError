@@ -1,0 +1,15 @@
+{
+  "name": "parallel-skip-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Gal Katzburg"
+  },
+  "dependencies": {
+    "async": "^1.4.2"
+  },
+  "_npmUser": {
+    "name": "Gal Katzburg"
+  }
+}
