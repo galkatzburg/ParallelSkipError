@@ -3,7 +3,7 @@
 var async = require('async');
 
 var utils = module.exports = {
-    parallelSkipErrors: function(functions, callback) {
+    run: function(functions, callback) {
         var newFunctions = {};
         for (var func in functions) {
             newFunctions[func] = utils.skipError(functions[func]);

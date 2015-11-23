@@ -1,15 +1,25 @@
 {
   "name": "parallel-skip-errors",
   "version": "1.0.0",
-  "description": "",
+  "description": "Execute Async Parallel Without Exit On Error",
   "main": "index.js",
-  "author": {
-    "name": "Gal Katzburg"
-  },
+  "author": "Gal Katzburg",
   "dependencies": {
     "async": "^1.4.2"
   },
   "_npmUser": {
     "name": "Gal Katzburg"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galkatzburg/ParallelSkipError.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galkatzburg/ParallelSkipError/issues"
+  },
+  "homepage": "https://github.com/galkatzburg/ParallelSkipError"
 }
