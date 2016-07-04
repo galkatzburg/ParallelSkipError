@@ -26,5 +26,6 @@
 	"nodejs",
         "parallel"
 	"error"
+  	],
   "homepage": "https://github.com/galkatzburg/ParallelSkipError"
 }
