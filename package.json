@@ -24,7 +24,7 @@
  "keywords": [
 	"async",
 	"nodejs",
-        "parallel"
+        "parallel",
 	"error"
   	],
   "homepage": "https://github.com/galkatzburg/ParallelSkipError"
